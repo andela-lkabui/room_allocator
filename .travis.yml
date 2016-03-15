@@ -14,4 +14,3 @@ after_success:
 branches:
   only:
     - feature-review
-# extra commit to trigger push on GitHub and build on TravisCI
