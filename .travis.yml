@@ -13,4 +13,5 @@ after_success:
   - coveralls
 branches:
   only:
-    - feature/review
+    - feature-review
+# extra commit to trigger push on GitHub and build on TravisCI
