@@ -1,5 +1,5 @@
 # Room_allocator
-[![Coverage Status](https://coveralls.io/repos/github/andela-lkabui/room_allocator/badge.svg?branch=master)](https://coveralls.io/github/andela-lkabui/room_allocator?branch=feature-review)
+[![Coverage Status](https://coveralls.io/repos/github/andela-lkabui/room_allocator/badge.svg?branch=feature-review)](https://coveralls.io/github/andela-lkabui/room_allocator?branch=feature-review)
 [![Build Status](https://travis-ci.org/andela-lkabui/room_allocator.svg?branch=feature-review)](https://travis-ci.org/andela-lkabui/room_allocator)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/andela-pwanjiru/room_allocator/badges/quality-score.png?b=feature-review)](https://scrutinizer-ci.com/g/andela-pwanjiru/room_allocator/?branch=feature-review)
 
